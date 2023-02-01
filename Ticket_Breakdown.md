@@ -19,16 +19,16 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 To achieve the task's objectives, few action items will need to be performed, nost notably on the the database layer and the API layer which is responsible for generating the PDFS. The following tickets are hence spawned from the parent ticket described above. 
 
-*NB: In the context of this analysis, storypoints are used as an estimate of the overall effort required to fully implement a task. A scale of 1-5 is adopted here, 1 being easy/minimal and 5 being hardest/challenging. 
+NB: In the context of this analysis, storypoints are used as an estimate of the overall effort required to fully implement a task. A scale of 1-5 is adopted here, 1 being easy/minimal and 5 being hardest/challenging. 
 
 In more detail;
 
 Story Points
-1 - Minimal effort, 1-2 hrs estimate
-2 - ~2-4 hrs estimate
-3 - Half a full day's shift estimate (8hr shift assumed)
-4 - ~8hrs estimate
-5 - Challenging, can take more than a full day's shift to complete*
+- 1 - Minimal effort, 1-2 hrs estimate
+- 2 - ~2-4 hrs estimate
+- 3 - Half a full day's shift estimate (8hr shift assumed)
+- 4 - ~8hrs estimate
+- 5 - Challenging, can take more than a full day's shift to complete
 
 
 **Ticket 1**
@@ -52,6 +52,7 @@ Story Points
 Story points - 1
 
 
+
 **Ticket 2**
 
 **We would like to enable facility admins to add or update custom facility id to an agent via the front end application**
@@ -69,6 +70,7 @@ Story points - 1
 **Time/Effort Estimate**
 
 Story points - 3
+
 
 
 **Ticket 3**
