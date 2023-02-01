@@ -24,11 +24,11 @@ NB: In the context of this analysis, storypoints are used as an estimate of the 
 In more detail;
 
 Story Points
-- 1 - Minimal effort, 1-2 hrs estimate
-- 2 - ~2-4 hrs estimate
-- 3 - Half a full day's shift estimate (8hr shift assumed)
-- 4 - ~8hrs estimate
-- 5 - Challenging, can take more than a full day's shift to complete
+- 1 Minimal effort, 1-2 hrs estimate
+- 2 ~2-4 hrs estimate
+- 3 Half a full day's shift estimate (8hr shift assumed)
+- 4 ~8hrs estimate
+- 5 Challenging, can take more than a full day's shift to complete
 
 
 **Ticket 1**
